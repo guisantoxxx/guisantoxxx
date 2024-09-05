@@ -7,8 +7,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=guisantoxxx&show_icons=true&theme=transparent&hide=rank" alt="guisantoxxx's stats"/>  
-  
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=guisantoxxx&hide=ranking&show_icons=true&theme=transparent" alt="guisantoxxx's stats"/>   
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisantoxxx&layout=compact&theme=transparent" alt=guisantoxxx's most languages"/>
 </p>
 
