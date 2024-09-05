@@ -9,7 +9,6 @@
 
 <p align="left">
 <img width="395em" src="https://github-readme-stats.vercel.app/api?username=guisantoxxx&hide=ranking&show_icons=true&theme=transparent&rank_icon=github" alt="guisantoxxx's stats"/>   
-<img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisantoxxx&layout=compact&theme=transparent" alt="guisantoxxx's most languages"/>
 </p>
 
 ## 👨‍💻 Contact
