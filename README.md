@@ -2,4 +2,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guisantoxxx&color=blue" alt="Profile views" /> </p>
 
 - 📚💻 Estudante de ciências da computação na UFSCAR Sorocaba
+- 🟩🟪 Trainee na BeetsJr. 
 
