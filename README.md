@@ -24,12 +24,14 @@
 
 ## 👨‍💻 Contact
 
-<p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/guilherme-santos-521257258" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Guilherme Santos-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/gui_frsantos" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-gui_frsantos-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
+<p align="left" style="background:yellow; margin-bottom:5px;">
+  <a href="https://linkedin.com/in/guilherme-santos-521257258" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Guilherme Santos-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  </a>
+  <a href="https://instagram.com/gui_frsantos" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-gui_frsantos-05122A?style=flat&logo=instagram" alt="instagram"/>
+  </a>
 </p>
+
+
 <br><br>
