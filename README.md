@@ -22,7 +22,7 @@
 </p>
 
 
-## 👨‍💻 Contact
+## 👨‍💻 Get in touch
 
 <p align="left" style="background:yellow;">
   <a href="https://linkedin.com/in/guilherme-santos-521257258" target="_blank">
