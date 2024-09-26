@@ -1,16 +1,16 @@
-<h1 align="left">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Guilherme !</h1>
+<h1 align="left">Helo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Guilherme Santos !</h1>
 
 - 📚💻 Estudante de ciências da computação na UFSCAR Sorocaba
 - 🟢🟣 Trainee na BeetsJr.
 
 
-## 📊 &nbsp;GitHub Analytics
+## &nbsp;GitHub Analytics 📊
 
 <p align="left">
 <img width="395em" src="https://github-readme-stats.vercel.app/api?username=guisantoxxx&hide=ranking&show_icons=true&theme=transparent&rank_icon=github" alt="guisantoxxx's stats"/>   
 </p>
 
-## 🔧 Technologies
+## Technologies 🔧
 <p dir="auto">
   <img src="https://camo.githubusercontent.com/1bfef5ecde33e0d269c309829ae79939861e08cceda91f473119f596419a113b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d3030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465" alt="C" data-canonical-src="https://img.shields.io/badge/C-00599C?style=for-the-badge&amp;logo=c&amp;logoColor=white" style="max-width: 100%;">
   
@@ -22,7 +22,7 @@
 </p>
 
 
-## 👨‍💻 Get in touch
+## Get in touch 👨‍💻
 
 <p align="left" style="background:yellow;">
   <a href="https://linkedin.com/in/guilherme-santos-521257258" target="_blank">
