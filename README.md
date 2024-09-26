@@ -19,6 +19,7 @@
   <img src="https://camo.githubusercontent.com/4aed80090cf6326364d8fbc173e9d307293da717b071823b37d3514afcbcd98e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3331363139323f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465" alt="PostgreSQL" data-canonical-src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" style="max-width: 100%;">
   
   <img src="https://camo.githubusercontent.com/011a4e2bb803e4ae1111f9d1bf17e9619952a0d1fc7d0ee625f85fc12ad6ffa5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465" alt="Java" data-canonical-src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" style="max-width: 100%;">
+   
 </p>
 
 
@@ -26,5 +27,7 @@
 
 <p align="left" style="background:yellow;">
   <a href="https://linkedin.com/in/guilherme-santos-521257258" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Guilherme Santos-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+    <img align="center" src="https://img.shields.io/badge/-Guilherme Santos-05122A?style=flat&logo=linkedin" alt="linkedin" style="width: 150px; height: auto;"/>
+   <a href="https://www.instagram.com/gui_frsantos/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-gui_frsantos-05122A?style=flat&logo=instagram" alt="instagram" style="width: 110px; height: auto;" />
 </p>
