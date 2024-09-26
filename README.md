@@ -28,6 +28,3 @@
   <a href="https://linkedin.com/in/guilherme-santos-521257258" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Guilherme Santos-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </p>
-
-
-<br><br>
