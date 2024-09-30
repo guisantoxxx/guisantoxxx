@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&theme=cobalt" style="width:100%"/>
+
 
 <h1 align="left" style="margin-top: 0px;">
   Hello! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" style="margin-top: 0;">, I'm Guilherme Santos!
