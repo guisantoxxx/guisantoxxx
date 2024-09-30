@@ -1,4 +1,9 @@
-<h1 align="left">Helo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Guilherme Santos !</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&theme=cobalt" style="width:100%"/>
+
+<h1 align="left" style="margin-top: 0px;">
+  Hello! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" style="margin-top: 0;">, I'm Guilherme Santos!
+</h1>
+
 
 - 📚💻 Estudante de ciências da computação na UFSCAR Sorocaba
 - 🟢🟣 Trainee na BeetsJr.
@@ -36,5 +41,5 @@
   </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt" style="width:100%"/>
 
