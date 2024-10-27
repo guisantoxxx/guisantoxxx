@@ -6,8 +6,6 @@
 
 
 - 📚💻 Estudante de ciências da computação na UFSCAR Sorocaba
-- 🟢🟣 Trainee na BeetsJr.
-
 
 ## &nbsp;GitHub Analytics 📊
 
