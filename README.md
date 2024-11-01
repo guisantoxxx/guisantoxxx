@@ -16,10 +16,14 @@
 ## Technologies 🔧
 <p dir="auto">
   <img src="https://camo.githubusercontent.com/1bfef5ecde33e0d269c309829ae79939861e08cceda91f473119f596419a113b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d3030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465" alt="C" data-canonical-src="https://img.shields.io/badge/C-00599C?style=for-the-badge&amp;logo=c&amp;logoColor=white" style="max-width: 100%;">
+
+  <img src="https://camo.githubusercontent.com/b50d4b5449ac9bed0fc02238425fd56db93011d5019563595023ff0bb1a02162/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" style="max-width: 100%;">
   
   <img src="https://camo.githubusercontent.com/10c7a8fa2cf317cc7c4af6f13efac086a9f0ea010f0dfc746c94e5cde310b339/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML5" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;">
 
 <img src="https://camo.githubusercontent.com/001d4637c08910acf414f12a1682879a1f99867f6f9a3550f0541e7d03dd34a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="CSS" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;">
+
+<img src="https://camo.githubusercontent.com/6e9afc59cd0881afb915824eacc6ffb6147440b4c78904b561d617a203b96e32/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3134333534433f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" alt="Python" data-canonical-src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&amp;logo=python&amp;logoColor=white" style="max-width: 100%;">
 
   <img src="https://camo.githubusercontent.com/011a4e2bb803e4ae1111f9d1bf17e9619952a0d1fc7d0ee625f85fc12ad6ffa5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465" alt="Java" data-canonical-src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" style="max-width: 100%;">
   
